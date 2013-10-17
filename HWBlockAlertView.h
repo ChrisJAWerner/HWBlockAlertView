@@ -1,6 +1,5 @@
 //
 //  HWBlockAlertView.h
-//  DuquesneDukes
 //
 //  Created by Chris Werner on 2013-10-16.
 //  Copyright (c) 2013 Hipwood. All rights reserved.

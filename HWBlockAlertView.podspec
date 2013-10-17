@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "HWBlockAlertView"
-  s.version      = "0.0.1"
+  s.version      = "1.0.1"
   s.summary      = "A custom UIAlertView that uses blocks instead of delegates"
 
   s.homepage     = "https://github.com/ChrisJAWerner/HWBlockAlertView"
